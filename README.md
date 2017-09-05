@@ -17,7 +17,7 @@ Work flow for Layar application is as follows (info from the Layar developer sit
   A getPOIs request is sent to the Layar Server. 
   
   The Layar Server forwards the Layer Service Provider of that layer.
-  
+  
   The layer Service Provider returns AR content based on the Developer API (getPOIs response) back to the Layar Server. 
   
   The Layar Server validates the getPOIs response and sends it back to the Layar Client. 
